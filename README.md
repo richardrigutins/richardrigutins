@@ -5,8 +5,3 @@
 - 💻 I develop and maintain web applications using Angular, Blazor, and ASP.NET Core, and mobile applications using Flutter.
 - 🌱 Currently, I am learning about AI and cloud technologies such as Azure, AWS, and GCP.
 - 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/riccardo-rigutini-62483a236/). Sometimes I write about tech stuff on [my website](https://www.rigutins.dev).
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=richardrigutins&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardrigutins&layout=compact&theme=dark)
